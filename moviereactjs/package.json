@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@stardust-ui/docs-components": "^0.40.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cra-template": "1.0.3",
     "qs": "^6.9.2",
     "react": "^16.13.1",
